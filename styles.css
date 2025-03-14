@@ -1,0 +1,13 @@
+    body {
+        background-color:rgb(104, 255, 187);
+    }
+    h2 {
+        font-family: 'Lilita One', serif;
+        text-align: center;
+    }
+    .smallerImg {
+        width: 150px;
+    }
+    p {
+        font-family: 'Comic Sans MS', serif;
+    }
