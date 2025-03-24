@@ -1,16 +1,18 @@
     body {
         background-color:rgb(104, 255, 187);
+        text-align: center;
+        color: white;
     }
     h2 {
         font-family: 'Lilita One', serif;
         text-align: center;
+        color: white;
     }
     .smallerImg {
         width: 150px;
     }
     p {
         font-family: 'Comic Sans MS', serif;
-        text-align: center;
     }
     ul {
         padding: 10px;
@@ -21,6 +23,7 @@
         display: inline;
         padding: 0px 100px 0px 100px;
         font-family: 'Boldonse', serif;
+        color: white;
     }
     header {
         text-align: center;
@@ -28,16 +31,16 @@
         padding:20px 0px 0px 0px;
         background-size: 750px;
         background-position: center;
-        font-family: 'Lilita One', serif;
       }
       h1 {
         font-size: 35px;
         font-family: 'Lilita One', serif;
-        text-align: center;
       }
       img {
         margin: 40px 0px 0px 0px;
         border: 7px solid white;
         border-radius: 20px;
-        text-align: center;
+      }
+      a {
+        color: white;
       }
