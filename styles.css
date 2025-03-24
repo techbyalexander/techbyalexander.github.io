@@ -1,11 +1,9 @@
     body {
         background-color:rgb(104, 255, 187);
-        color: white;
     }
     h2 {
         font-family: 'Lilita One', serif;
         text-align: center;
-        color: white;
     }
     .smallerImg {
         width: 150px;
@@ -22,7 +20,6 @@
         display: inline;
         padding: 0px 100px 0px 100px;
         font-family: 'Boldonse', serif;
-        color: white;
     }
     header {
         text-align: center;
