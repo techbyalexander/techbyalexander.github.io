@@ -31,6 +31,7 @@
         padding:20px 0px 0px 0px;
         background-size: 750px;
         background-position: center;
+        font-family: 'Lilita One', serif;
       }
       h1 {
         font-size: 35px;
@@ -40,7 +41,4 @@
         margin: 40px 0px 0px 0px;
         border: 7px solid white;
         border-radius: 20px;
-      }
-      a {
-        font-family: 'Lilita One', serif;
       }
