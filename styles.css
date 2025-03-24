@@ -6,7 +6,7 @@
     h2 {
         font-family: 'Lilita One', serif;
         text-align: center;
-        color: blue;
+        color: white;
     }
     .smallerImg {
         width: 150px;
@@ -35,7 +35,6 @@
       h1 {
         font-size: 35px;
         font-family: 'Lilita One', serif;
-        color: blue;
       }
       img {
         margin: 40px 0px 0px 0px;
